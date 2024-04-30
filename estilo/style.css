@@ -27,7 +27,7 @@ section#telefone {
     transform: translate(-50%, -50%);
 
     background: url(../imagens/frame-iphone.png) no-repeat;
-    height: 425px;
+    height: 435px;
     width: 211px;
 }
 iframe#tela {
@@ -36,6 +36,6 @@ iframe#tela {
     left: 15px;
 
     width: 181px;
-    height: 319.5px;
+    height: 328px;
     
 }
